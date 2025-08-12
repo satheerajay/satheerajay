@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hey there, I’m Satheera<br>💻 3nd-year Undergraduate at the University of Colombo School of Computing (UCSC)<br>🚀 Passionate about Web Development, UI/UX Design, Software Development, Cybersecurity, and AI<br>⚡ Constantly learning and applying skills through real-world projects and team collaborations<br>🌱 Currently exploring Cloud Automation, Scalable Multi-Tenant Systems, and AI-driven solutions<br>🤝 Open to collaborations on innovative software projects.
+👋 Hey there, I’m Satheera<br>💻 3nd-year Undergraduate at the University of Colombo School of Computing (UCSC)<br>🚀 Passionate about Web Development, UI/UX Design, Software Development and DevOps<br>⚡ Constantly learning and applying skills through real-world projects and team collaborations<br>🌱 Currently exploring Cloud Automation, Scalable Multi-Tenant Systems, and AI-driven solutions<br>🤝 Open to collaborations on innovative software projects.
 
 ## 🌐 Socials:
 
